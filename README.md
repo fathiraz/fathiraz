@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fathiraz&show_icons=true&locale=en" alt="fathiraz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathiraz&" alt="fathiraz" /></p>
+<p><img src="https://streak-stats.demolab.com?user=fathiraz&theme=whatsapp-light&hide_border=true&border_radius=5&mode=weekly&card_width=550" alt="GitHub Streak" /></p>
